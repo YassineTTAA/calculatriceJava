@@ -83,6 +83,7 @@ public class CalculatriceCorrection {
 				result = result + Integer.valueOf(textField.getText());
 				textField.setText(result + "");
 				result = 0;
+
 				
 			}
 		});
